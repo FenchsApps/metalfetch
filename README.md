@@ -38,7 +38,7 @@ A beautiful fastfetch alternative written in Rust that displays Linux distributi
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/FenchsApps/metalfetch.git
 cd metalfetch
 
 # Compile in release mode
